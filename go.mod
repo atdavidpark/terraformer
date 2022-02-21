@@ -60,12 +60,12 @@ require (
 	github.com/zclconf/go-cty v1.7.1
 	github.com/zorkian/go-datadog-api v2.30.0+incompatible
 	golang.org/x/oauth2 v0.0.0-20210113205817-d3ed898aa8a3
-	golang.org/x/text v0.3.5
+	golang.org/x/text v0.3.7
 	gonum.org/v1/gonum v0.7.0
 	google.golang.org/api v0.40.0
 	google.golang.org/genproto v0.0.0-20210212180131-e7f2df4ecc2d
 	gopkg.in/jarcoal/httpmock.v1 v1.0.0-00010101000000-000000000000 // indirect
-	k8s.io/apimachinery v0.20.2
+	k8s.io/apimachinery v0.23.4
 	k8s.io/client-go v0.20.2
 )
 
